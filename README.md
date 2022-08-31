@@ -2,7 +2,7 @@
 - 👀 I’m interested in Nodejs full stack developement.
 - 🌱 I’m currently learning but not limited to HTML, CSS, MongoDB and Nodejs.
 - 💞️ I’m looking to collaborate on interesting Web project.
-- 📫 How to reach me? My Email is jackdinginca@gmail.com.
+- 📫 How to reach me? My Email is jackdinginca@gmail.com, my portfolio pages is [here](https://jackdingcoding.github.io/JackDingCoding/).
 -    Thank you for visiting my page.
 
 <!---
