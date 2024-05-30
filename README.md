@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning but not limitged to HTML, CSS, MongoDB and Nodejs.
 - 💞️ I’m looking to collaborate on interesting Web project.
 - 📫 How to reach me? My Email is jackdinginca@gmail.com, my portfolio pages is [here](https://jackdingcoding.github.io/).
--    Thank you for visiting my page.
+- :heart: Thank you for visiting my page.
 
 <!---
 JackDingCoding/JackDingCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
